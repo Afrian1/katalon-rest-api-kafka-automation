@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_API_GET_Post</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>afrianramadhan90@gmail.com</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>afrianramadhan90@gmail.com</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>b484cd3f-166c-4c78-bdd0-b087c04f139f</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>b484cd3f-166c-4c78-bdd0-b087c04f139f</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f71c0594-d87a-47e4-89fc-40d0602ee2df</testCaseGuid>
+</TestCaseEntity>
